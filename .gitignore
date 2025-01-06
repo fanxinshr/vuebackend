@@ -58,4 +58,6 @@ fabric.properties
 
 *.iws
 
+.idea/
+
 
